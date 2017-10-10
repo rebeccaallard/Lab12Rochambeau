@@ -1,0 +1,7 @@
+C:\Users\GC Student\Source\Repos\Lab12Rochambeau\Lab12Rochambeau\obj\Debug\Lab12Rochambeau.csprojResolveAssemblyReference.cache
+C:\Users\GC Student\Source\Repos\Lab12Rochambeau\Lab12Rochambeau\obj\Debug\Lab12Rochambeau.csproj.CoreCompileInputs.cache
+C:\Users\GC Student\Source\Repos\Lab12Rochambeau\Lab12Rochambeau\bin\Debug\Lab12Rochambeau.exe.config
+C:\Users\GC Student\Source\Repos\Lab12Rochambeau\Lab12Rochambeau\bin\Debug\Lab12Rochambeau.exe
+C:\Users\GC Student\Source\Repos\Lab12Rochambeau\Lab12Rochambeau\bin\Debug\Lab12Rochambeau.pdb
+C:\Users\GC Student\Source\Repos\Lab12Rochambeau\Lab12Rochambeau\obj\Debug\Lab12Rochambeau.exe
+C:\Users\GC Student\Source\Repos\Lab12Rochambeau\Lab12Rochambeau\obj\Debug\Lab12Rochambeau.pdb
